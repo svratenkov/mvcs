@@ -1,5 +1,2 @@
 # Ignore files & dirs
-#/.gitignore
-/doc
-/__example
-/vendor/Slim
+#.gitignore
